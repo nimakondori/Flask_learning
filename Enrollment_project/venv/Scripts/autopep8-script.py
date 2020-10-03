@@ -1,4 +1,4 @@
-#!D:\Github\Learning_Flask\Enrollment_project\venv\Scripts\python.exe
+#!D:\Github\Learning_Flask\Enrollment_Project_LinkedIn\Enrollment_project\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'autopep8==1.5.4','console_scripts','autopep8'
 __requires__ = 'autopep8==1.5.4'
 import re

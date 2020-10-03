@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Github\Learning_Flask\Enrollment_project\venv"
+VIRTUAL_ENV="D:\Github\Learning_Flask\Enrollment_Project_LinkedIn\Enrollment_project\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
